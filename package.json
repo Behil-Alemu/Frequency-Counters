@@ -1,0 +1,14 @@
+{
+  "name": "prob-freq-count-pointers",
+  "version": "1.0.0",
+  "description": "problem solving",
+  "main": "average-pair.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
